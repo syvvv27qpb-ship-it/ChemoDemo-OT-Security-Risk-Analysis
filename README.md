@@ -17,8 +17,7 @@ The workbook also includes a note on residual risks and a management summary.
 
 ```
 ├── README.md
-├── ChemoDemo_OT_Security_Risk_Analysis.xlsx   # Hazard and risk analysis
-└── ChemoDemo/                        # Case-study documents (PDF, German)
+└── ChemoDemo_OT_Security_Risk_Analysis.xlsx   # Hazard and risk analysis
 ```
 
 **Workbook sheets**
@@ -30,7 +29,6 @@ The workbook also includes a note on residual risks and a management summary.
 | `Hinweis_risiko` | Explanation of risks that cannot be fully reduced |
 | `Management_Summary` | Results and recommendations for management |
 
-**Case-study documents (`ChemoDemo/`)**: ISMS guideline, organisational structure, internal references, standards, ISMS overview, security policies, integrated management system, and security architecture.
 
 ## Scope
 
@@ -80,9 +78,6 @@ After the proposed measures, most scenarios reach an acceptable level. Two remai
 - **ES1 – manipulation of information:** direct PLC access is functionally required.
 - **C1 – malware:** the device is operated by the service provider and can only be controlled contractually.
 
-## Usage
-
-Open the `.xlsx` file in Excel or LibreOffice and read the sheets in the order listed above. The PDFs in `ChemoDemo/` provide the background for the analysis.
 
 ## Authors
 
